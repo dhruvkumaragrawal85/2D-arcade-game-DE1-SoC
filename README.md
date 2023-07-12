@@ -16,6 +16,6 @@ Flappy bird style game for DE1-SoC. Made in collobration with Dhruv Choudhari (2
 
 ![img3](https://github.com/dhruvkumaragrawal85/2D-arcade-game-DE1-SoC/assets/110057140/2f8fdeb0-5e0c-419d-993f-506e39b01f80)
 
-## Missing features
+## Features to be added
 - Quick restart button
 
