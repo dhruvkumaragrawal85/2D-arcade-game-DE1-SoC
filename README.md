@@ -1,11 +1,12 @@
 # 2D-arcade-game-DE1-SoC
-Flappy bird style game for DE1-SoC
+Flappy bird style game for DE1-SoC. Made in collobration with Dhruv Choudhari (2101CS25) IIT Patna.
 
 ## To try it yourself
 - Open [CPUlator](https://cpulator.01xz.net/?sys=arm-de1soc&d_audio=48000).
 - Make sure language is set to C.
-- Paste the code in the editor
+- Paste the code in the editor.
 - Compile and load -> Continue. The controls are mapped to the push buttons.
+
 
 ## Screenshots
 
