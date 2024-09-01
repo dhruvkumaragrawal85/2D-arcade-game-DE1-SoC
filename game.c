@@ -1,9 +1,7 @@
 /****************************************************************************
 TITLE: FPGA game																																
-AUTHOR(s):   		Dhruv Choudhari
-                    Dhruv Kumar Agrawal
-ROLL NUMBER(s):     2101CS25
-                    2101CS26    	
+AUTHOR(s):          Dhruv Kumar Agrawal
+ROLL NUMBER(s):     2101CS26    	
 Declaration of Authorship
 This .c file, game.c, is part of the assignment of CS209 at the 
 department of Computer Science and Engineering, IIT Patna . 
